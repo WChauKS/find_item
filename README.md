@@ -1,4 +1,4 @@
-# find_item
+# item_finder
 
 ## Introduction
 This is a web scraping project. I created it because I bought an item about three years ago which was recently discontinued and the attachments for it were no longer being made. Occasionally, the website would post a refurbished item to their refurbished section. I have been manually checking this section frequently in the past few months. Instead of manually going to the website, I have set up a Raspberry Pi Zero W to run this script every hour.
